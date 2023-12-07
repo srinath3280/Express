@@ -1,0 +1,1 @@
+[{"fullname":"srinath","place":"Kurnool"},{"fullname":"shiva","place":"Adoni"},{"fullname":"Hari","place":"Ballari"},{"fullname":"sai","place":"hyd"},{"fullname":"Reddy","place":"Bangalore"}]
